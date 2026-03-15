@@ -75,7 +75,8 @@
 
 ### 🧩 Архитектура PoC
 Ниже представлена схема мультиагентной архитектуры UniDiagramAI.
-https://github.com/user-attachments/assets/4cdef7c3-6907-4a64-8e3e-62ca365af7d7  
+
+[<img src="windows_console.png">](https://github.com/user-attachments/assets/4cdef7c3-6907-4a64-8e3e-62ca365af7d7  )
 
 ### 🏆 Участие в конкурсе ODS
 Проект разрабатывается в рамках конкурса проектов ODS (март 2026).
